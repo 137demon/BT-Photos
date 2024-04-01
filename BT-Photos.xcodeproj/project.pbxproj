@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2E0F8B242BB95DB90076480F /* Hinata-Hyuga-Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E0F8B232BB95DB90076480F /* Hinata-Hyuga-Cover.jpg */; };
 		2E27B8942BB9AC68004B1828 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E27B8932BB9AC68004B1828 /* Album.swift */; };
 		2E39B3B82BB81883008E061E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E39B3B72BB81883008E061E /* AppDelegate.swift */; };
 		2E39B3BA2BB81883008E061E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E39B3B92BB81883008E061E /* SceneDelegate.swift */; };
@@ -40,7 +39,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2E0F8B232BB95DB90076480F /* Hinata-Hyuga-Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hinata-Hyuga-Cover.jpg"; sourceTree = "<group>"; };
 		2E27B8932BB9AC68004B1828 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 		2E39B3B42BB81883008E061E /* BT-Photos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BT-Photos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E39B3B72BB81883008E061E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -115,7 +113,6 @@
 				2E27B8932BB9AC68004B1828 /* Album.swift */,
 				2E39B3BD2BB81883008E061E /* Main.storyboard */,
 				2E39B3C02BB81886008E061E /* Assets.xcassets */,
-				2E0F8B232BB95DB90076480F /* Hinata-Hyuga-Cover.jpg */,
 				2E39B3C22BB81886008E061E /* LaunchScreen.storyboard */,
 				2E39B3C52BB81886008E061E /* Info.plist */,
 			);
@@ -244,7 +241,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E39B3C42BB81886008E061E /* LaunchScreen.storyboard in Resources */,
-				2E0F8B242BB95DB90076480F /* Hinata-Hyuga-Cover.jpg in Resources */,
 				2E39B3C12BB81886008E061E /* Assets.xcassets in Resources */,
 				2E39B3BF2BB81883008E061E /* Main.storyboard in Resources */,
 			);
